@@ -1,0 +1,6 @@
+framework module Pods_HelpPlus {
+  umbrella header "Pods-HelpPlus-umbrella.h"
+
+  export *
+  module * { export * }
+}
